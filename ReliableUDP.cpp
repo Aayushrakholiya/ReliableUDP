@@ -158,6 +158,7 @@ int main(int argc, char* argv[])
 		return 1;
 	}
 
+	
 	if (mode == Client)
 		connection.Connect(address);
 	else
@@ -168,6 +169,12 @@ int main(int argc, char* argv[])
 	float statsAccumulator = 0.0f;
 
 	FlowControl flowControl;
+
+	// here we will read the file from the client side. (Retrieving the file from disk)
+
+	// and send it to the server. (Sending file metadata)
+
+	// here i will prepare the file to be written to the disks on the server. (Receiving file metadata)
 
 	while (true)
 	{
@@ -203,10 +210,14 @@ int main(int argc, char* argv[])
 
 		sendAccumulator += DeltaTime;
 
+		// in this while loop we will break the file into pieces and send them to the server. (Breaking the file in pieces to send)
+
 		while (sendAccumulator > 1.0f / sendRate)
 		{
 			unsigned char packet[PacketSize];
 			memset(packet, 0, sizeof(packet));
+
+			// here we will make some changes which allow us to send the file pieces to the server. (Sending the pieces)
 			connection.SendPacket(packet, sizeof(packet));
 			sendAccumulator -= 1.0f / sendRate;
 		}
@@ -217,6 +228,12 @@ int main(int argc, char* argv[])
 			int bytes_read = connection.ReceivePacket(packet, sizeof(packet));
 			if (bytes_read == 0)
 				break;
+
+			// server will recieve the file metadata here and prepare the file to be written to the disk (Receiving the file pieces)
+	
+			// ( Writing the pieces out to disk )
+
+			
 		}
 
 		// show packets that were acked this frame
@@ -260,9 +277,11 @@ int main(int argc, char* argv[])
 
 			statsAccumulator -= 0.25f;
 		}
-
+	
 		net::wait(DeltaTime);
 	}
+
+	// we will verify file integrity here. (Verifying the file integrity)
 
 	ShutdownSockets();
 
