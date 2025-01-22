@@ -1,0 +1,17 @@
+﻿  ReliableUDP.cpp
+C:\sem-4\ReliableUDP\Net.h(192,21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  (compiling source file 'ReliableUDP.cpp')
+  
+C:\sem-4\ReliableUDP\Net.h(912,29): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ReliableUDP.cpp')
+  
+C:\sem-4\ReliableUDP\Net.h(913,30): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ReliableUDP.cpp')
+  
+C:\sem-4\ReliableUDP\Net.h(986,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ReliableUDP.cpp')
+  
+C:\sem-4\ReliableUDP\Net.h(988,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ReliableUDP.cpp')
+  
+  ReliableUDP.vcxproj -> C:\sem-4\ReliableUDP\x64\Debug\ReliableUDP.exe

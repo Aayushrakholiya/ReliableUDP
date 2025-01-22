@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sem-4\\ReliableUDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\fileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:fileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:ReliableUDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fileHandler.cpp",
+              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\fileHandler.cpp",
+              "RelativeDocumentMoniker": "fileHandler.cpp",
+              "ToolTip": "C:\\sem-4\\ReliableUDP\\fileHandler.cpp",
+              "RelativeToolTip": "fileHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T00:37:43.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileHandler.h",
+              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\fileHandler.h",
+              "RelativeDocumentMoniker": "fileHandler.h",
+              "ToolTip": "C:\\sem-4\\ReliableUDP\\fileHandler.h",
+              "RelativeToolTip": "fileHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T00:32:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Net.h",
+              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\Net.h",
+              "RelativeDocumentMoniker": "Net.h",
+              "ToolTip": "C:\\sem-4\\ReliableUDP\\Net.h",
+              "RelativeToolTip": "Net.h",
+              "ViewState": "AgIAAJcDAAAAAAAAAAAQwLMDAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T23:38:52.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReliableUDP.cpp",
+              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp",
+              "RelativeDocumentMoniker": "ReliableUDP.cpp",
+              "ToolTip": "C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp",
+              "RelativeToolTip": "ReliableUDP.cpp",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwJYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T23:36:39.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
