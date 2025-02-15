@@ -1,55 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\sem-4\\ReliableUDP\\",
+  "WorkspaceRootPath": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\fileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:fileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:fileHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\ReliableUDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B22D120-7463-45D6-A2B4-991C40189F4E}|ReliableUDP.vcxproj|solutionrelative:ReliableUDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 70,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fileHandler.cpp",
-              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\fileHandler.cpp",
-              "RelativeDocumentMoniker": "fileHandler.cpp",
-              "ToolTip": "C:\\sem-4\\ReliableUDP\\fileHandler.cpp",
-              "RelativeToolTip": "fileHandler.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-22T00:37:43.265Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "fileHandler.h",
-              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\fileHandler.h",
+              "DocumentMoniker": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.h",
               "RelativeDocumentMoniker": "fileHandler.h",
-              "ToolTip": "C:\\sem-4\\ReliableUDP\\fileHandler.h",
+              "ToolTip": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.h",
               "RelativeToolTip": "fileHandler.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-22T00:32:24.594Z",
               "EditorCaption": ""
@@ -58,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Net.h",
-              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\Net.h",
+              "DocumentMoniker": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\Net.h",
               "RelativeDocumentMoniker": "Net.h",
-              "ToolTip": "C:\\sem-4\\ReliableUDP\\Net.h",
+              "ToolTip": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\Net.h",
               "RelativeToolTip": "Net.h",
-              "ViewState": "AgIAAJcDAAAAAAAAAAAQwLMDAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAMQDAAAAAAAAAAAAANQDAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-07T23:38:52.958Z",
               "EditorCaption": ""
@@ -71,13 +62,52 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ReliableUDP.cpp",
-              "DocumentMoniker": "C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp",
+              "DocumentMoniker": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\ReliableUDP.cpp",
               "RelativeDocumentMoniker": "ReliableUDP.cpp",
-              "ToolTip": "C:\\sem-4\\ReliableUDP\\ReliableUDP.cpp",
+              "ToolTip": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\ReliableUDP.cpp",
               "RelativeToolTip": "ReliableUDP.cpp",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAgwJYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-07T23:36:39.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2ef8da1c-1903-4867-bc04-c9042db308ae",
+        "Display": 1,
+        "X": 279,
+        "Y": 449,
+        "Width": 614,
+        "Height": 568,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.cpp",
+              "RelativeDocumentMoniker": "fileHandler.cpp",
+              "ToolTip": "C:\\Users\\jp282\\Desktop\\NAD_clg\\ReliableUDP\\fileHandler.cpp",
+              "RelativeToolTip": "fileHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T00:37:43.265Z",
               "EditorCaption": ""
             }
           ]
