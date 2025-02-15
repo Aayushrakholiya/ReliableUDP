@@ -137,6 +137,8 @@ int main(int argc, char* argv[])
 		{
 			mode = Client;
 			address = Address(a, b, c, d, ServerPort);
+
+			// add argument here for file load .....
 		}
 	}
 
@@ -198,6 +200,13 @@ int main(int argc, char* argv[])
 		{
 			printf("client connected to server\n");
 			connected = true;
+
+			if (mode == Client) {
+				// load the file here .....
+				// send metadata here .....
+				// break file into packets here .....
+
+			}
 		}
 
 		if (!connected && connection.ConnectFailed())
@@ -211,19 +220,26 @@ int main(int argc, char* argv[])
 		sendAccumulator += DeltaTime;
 
 		// in this while loop we will break the file into pieces and send them to the server. (Breaking the file in pieces to send)
+		if (mode == Server) {
+			// recieve metadata here .....
 
+		}
+		
 		while (sendAccumulator > 1.0f / sendRate)
 		{
 			unsigned char packet[PacketSize];
 			memset(packet, 0, sizeof(packet));
+			// send all the packets here .....
 
 			// here we will make some changes which allow us to send the file pieces to the server. (Sending the pieces)
 			connection.SendPacket(packet, sizeof(packet));
 			sendAccumulator -= 1.0f / sendRate;
 		}
 
+		
 		while (true)
 		{
+			// recieve all the packets here 
 			unsigned char packet[256];
 			int bytes_read = connection.ReceivePacket(packet, sizeof(packet));
 			if (bytes_read == 0)
@@ -282,6 +298,8 @@ int main(int argc, char* argv[])
 	}
 
 	// we will verify file integrity here. (Verifying the file integrity)
+
+	//save fileto the server here .....
 
 	ShutdownSockets();
 
